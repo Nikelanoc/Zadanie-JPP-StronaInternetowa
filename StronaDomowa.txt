@@ -1,3 +1,5 @@
 Adres: Opole, 45-213, Uliczna 12/5
 
-Lista z wyborem kursu
+Lista rozwijana kursów
+
+Strona domowa Alicji
